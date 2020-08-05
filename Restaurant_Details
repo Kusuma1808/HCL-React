@@ -7,3 +7,25 @@ Restaurant_Details JSON Schema
      "restaurantImg": "https://imgmediagumlet.lbb.in/media/2019/04/5ca1aabfef1e3c35d64a480d_1554098879139.jpg?w=750&h=500&dpr=1",
      "restaurantAddress": "257/1/1-A, Near Raj Laxmi Petrol Pump, Phase 2 Road, Hinjewadi, Pune"
 }
+
+[10:32 AM] Pakalapati Kusuma Durga
+    {
+    "restaurantId": 0,
+    "restaurantName": "Novotel",
+    "restaurantSpeciality":"All kinds of food",
+    "restaurantImg": "https://b.zmtcdn.com/data/pictures/6/18224526/f0ff1fdfb55467aeb9db04e0f0b55248.jpg",
+    "restaurantAddress": "near Benz Circle, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008"
+}
+{
+    "restaurantId": 0,
+    "restaurantName": "Paradise",
+    "restaurantSpeciality":"Biryanis",
+    "restaurantImg": "https://i1.wp.com/moha-mushkil.com/wp-content/uploads/2020/02/IMG_20200128_214643.jpg?fit=1024%2C576&ssl=1",
+    "restaurantAddress": "near Benz Circle, Beside Trendset mall"
+}
+​[11:08 AM] 
+      Jaydeep Apte (Guest) left the conversation.
+    ​[11:10 AM] 
+      Jaydeep Apte (Guest) joined the meeting.
+    ​[11:10 AM] Jaydeep Apte (Guest)
+    ALTER TABLE restaurant_details MODIFY restaurant_img VARCHAR(500) ;
